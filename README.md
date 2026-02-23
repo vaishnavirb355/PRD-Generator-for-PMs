@@ -3,7 +3,7 @@
 > A conversational AI tool that generates professional Product Requirements Documents through a guided chat — powered by Ollama (local LLMs), running 100% offline.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
-![Copyright](https://img.shields.io/badge/©%202026-Vaishnavi%20R B.-blueviolet) ![Streamlit](https://img.shields.io/badge/Streamlit-1.35+-red) ![Ollama](https://img.shields.io/badge/Ollama-local-green) ![License](https://img.shields.io/badge/License-MIT-grey)
+![Copyright](https://img.shields.io/badge/©%202026-Vaishnavi%20R%20B.-blueviolet) ![Streamlit](https://img.shields.io/badge/Streamlit-1.35+-red) ![Ollama](https://img.shields.io/badge/Ollama-local-green) ![License](https://img.shields.io/badge/License-MIT-grey)
 
 ---
 
